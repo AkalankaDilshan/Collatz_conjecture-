@@ -15,7 +15,9 @@ The conjecture has been tested for all positive integers up to 2^68, and no coun
 
 ## Resources
 Website: http://thecodingtrain.com/
+
 youtube: https://youtu.be/EYLWxwo1Ed8
+
 p5.js Web Editor Sketch: https://editor.p5js.org/codingtrain/s...
 
 ## How to install this example Golang project on Kubernetes
