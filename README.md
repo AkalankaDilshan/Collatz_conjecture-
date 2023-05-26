@@ -20,7 +20,7 @@ youtube: https://youtu.be/EYLWxwo1Ed8
 
 p5.js Web Editor Sketch: https://editor.p5js.org/codingtrain/s...
 
-## How to install this example Golang project on Kubernetes
+## How to install this example 
 
 The easiest way to see how this works is to watch the series, but here's the short version.
 
